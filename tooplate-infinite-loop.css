@@ -158,30 +158,70 @@ blockquote {
   #home {
     min-height: 100vh;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (min-height: 830px) {
   #home {
     background-position: center -210px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (min-height: 680px) and (max-height: 829px) {
   #home {
     background-position: center -300px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (min-height: 500px) and (max-height: 679px) {
   #home {
     background-position: center -400px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (max-height: 499px) {
   #home {
     background-position: center -450px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 .tm-hero-text-container {
@@ -220,6 +260,14 @@ blockquote {
   .tm-intro-next {
     bottom: 20px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 .tm-down-arrow-link {
@@ -282,6 +330,14 @@ blockquote {
     background-size: cover;
 
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 .tm-testimonials-content {
@@ -335,6 +391,14 @@ blockquote {
     font-size: small;
 
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (max-width: 765px) {
@@ -343,6 +407,14 @@ blockquote {
     font-size: x-small;
 
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 
@@ -639,6 +711,15 @@ li {
     padding-right: 30px;
     padding-left: 30px;
     color: rgb(107, 98, 112);
+	
+}
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
 }
 .navbar-brand {
@@ -666,6 +747,14 @@ p {
     padding-right: 30px;
     padding-left: 30px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (min-width: 1200px) {
@@ -680,6 +769,14 @@ p {
   .tm-container-contact {
     max-width: 1063px;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (max-width: 991px) {
@@ -690,6 +787,14 @@ p {
     margin-left: auto;
     margin-right: auto;
   }
+body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 
   .tm-intro-img {
     display: block;
@@ -720,6 +825,15 @@ p {
     color: #707070;
 	padding-right: 20px;
   }
+	
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 @media (max-width: 480px) {
@@ -740,6 +854,14 @@ p {
   .tm-gallery-item {
     margin: 0;
   }
+	body {
+	font-family: "Raleway", sans-serif;
+	font-size: 1.2em;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
 }
 
 .slick-dots li button:hover:before, .slick-dots li button:focus:before, .slick-dots li.slick-active button:before {
